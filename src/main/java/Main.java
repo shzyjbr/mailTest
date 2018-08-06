@@ -8,10 +8,10 @@ public class Main {
     public static void main(String [] args) throws GeneralSecurityException
     {
         // 收件人电子邮箱
-        String to = "417160807@qq.com";
+        String to = "xxx@qq.com";
 
         // 发件人电子邮箱
-        String from = "15807731669@163.com";
+        String from = "xxx@163.com";
 
         // 指定发送邮件的主机为 smtp.qq.com
         String host = "smtp.163.com";  //QQ 邮件服务器
