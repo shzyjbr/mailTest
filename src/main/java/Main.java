@@ -31,7 +31,7 @@ public class Main {
         Session session = Session.getDefaultInstance(properties,new Authenticator(){
             public PasswordAuthentication getPasswordAuthentication()
             {
-                return new PasswordAuthentication("15807731669@163.com", "0754zzk"); //发件人邮件用户名、密码
+                return new PasswordAuthentication("xxx@163.com", "xxx"); //发件人邮件用户名、密码
             }
         });
 
